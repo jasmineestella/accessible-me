@@ -88,3 +88,10 @@ form button {
 .skiplinks ul {
   list-style: none;
 } */
+.skiplinks a {
+    color:black;
+    
+}
+.skiplinks a:active{
+    color:white;
+}
